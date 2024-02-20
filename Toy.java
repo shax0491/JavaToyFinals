@@ -1,3 +1,5 @@
+package JavaToyFinals;
+
 public class Toy implements Lotable {
     int id;
     String name;

@@ -1,3 +1,5 @@
+package JavaToyFinals;
+
 public class Lot {
     private int id;
     private Lotable item;

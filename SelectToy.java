@@ -1,3 +1,5 @@
+package JavaToyFinals;
+
 public class SelectToy {
     private static SelectToy instance = null;
     private static int toyId = 0;
